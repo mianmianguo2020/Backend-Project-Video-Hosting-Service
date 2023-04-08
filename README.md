@@ -1,6 +1,6 @@
 # Backend-Project-Video-Hosting-Service
 
-##The goal of this project is to build a server that can handle a large volume of traffic while providing a smooth user experience. To achieve this, we will be using a combination of Nginx as a reverse proxy and load balancer, and Spring Boot MVC as the application framework.
+The goal of this project is to build a server that can handle a large volume of traffic while providing a smooth user experience. To achieve this, we will be using a combination of Nginx as a reverse proxy and load balancer, and Spring Boot MVC as the application framework.
 
 ## Project Description
 This is a server project that utilizes Nginx as a reverse proxy and load balancer, and Spring Boot MVC as the application framework. The goal of the project is to build a scalable and high-performance server that can handle a large volume of traffic and provide reliable service.
